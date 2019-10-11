@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: #666666;
+  border-top: 6px #4aaaa5 solid;
+  left: 0;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+}
+
+div {
+  border: 1px solid;
+}
